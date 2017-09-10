@@ -1,29 +1,6 @@
-/*
-@import "functions/functions";
-@import "mixins/responsive";
-@import "variables";
-
-@import "global";
-
-@import "pages/posts";
-@import "pages/post";
-@import "pages/add-post";
-@import "pages/profile";
-@import "pages/register";
-
-@import "components/posts";
-@import "components/navigation";
-@import "components/profile-photo";
-@import "components/image-tool";
-
-@import "components/avatar";
-@import "components/comments";
-@import "components/post-mini";
-
-*/
 
 body {
-   background-color: red;
+   h1 {
+      color: red;
+   }
 }
-
-//@import "../../../../node_modules/cropperjs/src/css/cropper";
